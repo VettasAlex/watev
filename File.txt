@@ -2,4 +2,8 @@ Hello There
 EDISEDISDE
 east side mofo
 wtf happenned 
+<<<<<<< HEAD
 THELW GIT PULL
+=======
+THELW PULL
+>>>>>>> graphics
