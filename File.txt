@@ -3,7 +3,11 @@ EDISEDISDE
 east side mofo
 wtf happenned 
 <<<<<<< HEAD
+<<<<<<< HEAD
 THELW GIT PULL
 =======
 THELW PULL
 >>>>>>> graphics
+=======
+
+>>>>>>> c23eaccdd8ffa6e64725caaf2ecae3b4625c2b8b
